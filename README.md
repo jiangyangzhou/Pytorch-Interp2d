@@ -1,5 +1,5 @@
 # Pytorch-Interp2d
-Pytorch implement of interp 2d  
+Pytorch implement of 2d points interpolation 
 (Perform same as griddata in scipy)   
 I just modify some of scipy.spatial code
 
